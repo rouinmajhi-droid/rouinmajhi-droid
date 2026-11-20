@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030611"/><stop offset=".55" stop-color="#10102d"/><stop offset="1" stop-color="#160b24"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#fff4a3"/><stop offset=".35" stop-color="#ffca28"/><stop offset=".7" stop-color="#ff8c00"/><stop offset="1" stop-color="#fff2a6"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#00f0ff"/><stop offset="1" stop-color="#8b5cff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#164c75" stroke-opacity=".35"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<path d="M12 80L65 20H1135L1188 80V220L1135 280H65L12 220Z" fill="none" stroke="url(#cyan)" stroke-width="3" filter="url(#glow)"/>
+<path d="M32 92L78 42H1122L1168 92V208L1122 258H78L32 208Z" fill="none" stroke="#ffbf24" stroke-opacity=".8" stroke-width="1.5"/>
+<g opacity=".9" fill="none" stroke="#00dfff" stroke-width="2"><path d="M70 150h90m-70-14-20 14 20 14M1130 150h-90m70-14 20 14-20 14"/></g>
+<g transform="translate(940 42)" opacity=".9" filter="url(#glow)">
+ <path d="M50 10Q15 25 12 70L0 128L30 112L42 150L115 150L128 112L158 128L146 70Q143 25 108 10Q80 -5 50 10Z" fill="#070b1b" stroke="#00dfff" stroke-width="3"/>
+ <path d="M45 78l18 12m50-12L95 90" stroke="#00eaff" stroke-width="8" stroke-linecap="round"/>
+ <path d="M55 112q25 18 50 0" fill="none" stroke="#00eaff" stroke-width="4"/>
+</g>
+<text x="600" y="88" fill="#eafaff" font-family="Arial,sans-serif" font-size="25" text-anchor="middle" font-style="italic">WELCOME TO MY GITHUB PROFILE</text>
+<text x="600" y="158" fill="url(#gold)" font-family="Arial,sans-serif" font-weight="900" font-size="66" text-anchor="middle" filter="url(#glow)">⚡ RABIN DEVELOPER ⚡</text>
+<text x="600" y="204" fill="#f3f6ff" font-family="Arial,sans-serif" font-size="25" text-anchor="middle">ANDROID  •  WEB  •  APP DEVELOPER</text>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
+ <rect x="315" y="228" width="150" height="38" rx="18" fill="#071c35" stroke="#00dfff" stroke-width="2"/><text x="390" y="253" fill="#54edff">ANDROID</text>
+ <rect x="480" y="228" width="130" height="38" rx="18" fill="#17102d" stroke="#b65cff" stroke-width="2"/><text x="545" y="253" fill="#dfb0ff">WEB DEV</text>
+ <rect x="625" y="228" width="130" height="38" rx="18" fill="#241a08" stroke="#ffca28" stroke-width="2"/><text x="690" y="253" fill="#ffdc70">GITHUB</text>
+</g>
+</svg>

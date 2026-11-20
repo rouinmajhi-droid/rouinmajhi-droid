@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210">
+<defs><linearGradient id="gold"><stop stop-color="#fff5a6"/><stop offset=".5" stop-color="#ffb800"/><stop offset="1" stop-color="#fff0a0"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="5" y="5" width="1090" height="200" rx="22" fill="#050817" stroke="#ffbf24" stroke-width="3" filter="url(#gl)"/>
+<path d="M470 95h160l-20 45H490Z" fill="#a65b00" stroke="url(#gold)" stroke-width="4"/><path d="M490 95l-35-35 10 65 35-10M610 95l35-35-10 65-35-10" fill="#ffbf24" stroke="#fff0a0" stroke-width="4"/>
+<path d="M505 58h90l-10 45h-70Z" fill="#ffca28" stroke="#fff1a0" stroke-width="4"/>
+<text x="550" y="38" fill="url(#gold)" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle">🏆  NEVER GIVE UP  🏆</text>
+<text x="550" y="174" fill="url(#gold)" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle">CODE  ✦  CREATE  ✦  INNOVATE</text>
+</svg>

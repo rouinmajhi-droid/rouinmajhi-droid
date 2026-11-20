@@ -1,189 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:11112B,70:402000,100:FFD700&height=200&section=header&text=RABIN%20DEVELOPER&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=👑%20FULL%20STACK%20%7C%20ANDROID%20%7C%20WEB%20DEVELOPER&descSize=14&descAlignY=60"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=👑+WELCOME+TO+MY+KINGDOM;⚡+RABIN+DEVELOPER+⚡;🔥+CODE+CREATE+INNOVATE;💻+ANDROID+%26+WEB+DEVELOPER;🚀+DREAM+BIG+CODE+BIGGER"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/👑_GOLDEN_DEVELOPER-FFD700?style=for-the-badge&labelColor=000000"/>
-
-<img src="https://komarev.com/ghpvc/?username=rouinmajhi-droid&style=for-the-badge&color=FFD700&label=PROFILE+VISITORS"/>
+<img src="assets/header.svg" width="100%" alt="Rabin Developer neon cyberpunk banner"/>
 
 </div>
 
----
-
 <div align="center">
 
-# 👑 ABOUT THE DEVELOPER
-
-<img src="https://img.shields.io/badge/⚡_RABIN_DEVELOPER-FFD700?style=for-the-badge&labelColor=090909"/>
+![Profile views](https://komarev.com/ghpvc/?username=rouinmajhi-droid&style=for-the-badge&color=00dfff&label=PROFILE+VIEWS)
+![Developer](https://img.shields.io/badge/ROLE-ANDROID%20%26%20WEB-ffbf24?style=for-the-badge&labelColor=080b18)
 
 </div>
 
-<table>
-<tr>
-<td>
+<img src="assets/about.svg" width="100%" alt="About Rabin"/>
 
-### 🔥 WHO AM I?
+<img src="assets/tech-stack.svg" width="100%" alt="Tech stack neon panel"/>
 
-👋 Hello! I'm **RABIN DEVELOPER**.
-
-🚀 Android & Web Application Developer.
-
-💻 Building modern digital experiences.
-
-🔥 Technology Lover | Problem Solver.
-
-⚡ Open Source Contributor.
-
-🎯 Always Learning New Technologies.
-
-</td>
-</tr>
-</table>
+## 📊 GITHUB STATS
 
 <div align="center">
 
-### ✨ DREAM BIG • CODE BIGGER ✨
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rouinmajhi-droid&show_icons=true&hide_border=true&bg_color=050817&title_color=ffca28&icon_color=00eaff&text_color=ffffff&border_color=00dfff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rouinmajhi-droid&hide_border=true&background=050817&ring=ffca28&fire=ff7b00&currStreakLabel=00eaff&sideLabels=ffffff&dates=9aa7c7" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouinmajhi-droid&layout=compact&hide_border=true&bg_color=050817&title_color=ffca28&text_color=ffffff" />
 
 </div>
 
----
+## 🏆 TROPHIES
 
 <div align="center">
 
-# 🛠️ TECH STACK & TOOLS
-
-<img src="https://img.shields.io/badge/HTML5-FF6D00?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rouinmajhi-droid&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" />
 
 </div>
 
----
+## 🔗 CONNECT
+
+<img src="assets/connect.svg" width="100%" alt="Connect with Rabin"/>
 
 <div align="center">
 
-# 📊 GITHUB STATISTICS
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rouinmajhi-droid&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD700&icon_color=00FFFF&text_color=FFFFFF&border_color=FFD700&hide_border=false"/>
-
-<br>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rouinmajhi-droid&theme=tokyonight&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=00FFFF&border=FFD700"/>
-
-<br>
-
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouinmajhi-droid&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-080b18?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouinmajhi-droid)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-080b18?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-080b18?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/)
 
 </div>
 
----
+## 🚀 FEATURED REPOSITORIES
 
 <div align="center">
 
-# 🏆 GITHUB TROPHIES
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rouinmajhi-droid&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<a href="https://github.com/rouinmajhi-droid/ZenixAPK"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=ZenixAPK&theme=tokyonight&bg_color=050817&title_color=00eaff&border_color=00dfff&hide_border=false" /></a>
+<a href="https://github.com/rouinmajhi-droid/RABIN-FF444"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=RABIN-FF444&theme=tokyonight&bg_color=050817&title_color=ffca28&border_color=ffca28&hide_border=false" /></a>
+<a href="https://github.com/rouinmajhi-droid/JAX-AI-Project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=JAX-AI-Project&theme=tokyonight&bg_color=050817&title_color=b65cff&border_color=b65cff&hide_border=false" /></a>
 
 </div>
 
----
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-# 🌐 CONNECT WITH ME
-
-<a href="https://github.com/rouinmajhi-droid">
-<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rouinmajhi-droid&bg_color=050817&color=00eaff&line=ffca28&point=ffffff&area=true&hide_border=true)](https://github.com/rouinmajhi-droid)
 
 </div>
 
----
-
 <div align="center">
 
-# 🚀 POPULAR REPOSITORIES
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/rouinmajhi-droid/ZenixAPK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=ZenixAPK&theme=tokyonight&bg_color=000000&title_color=FFD700&border_color=FFD700"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/rouinmajhi-droid/RABIN-FF444">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=RABIN-FF444&theme=tokyonight&bg_color=000000&title_color=FFD700&border_color=FFD700"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/rouinmajhi-droid/JAX-AI-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=JAX-AI-Project&theme=tokyonight&bg_color=000000&title_color=FFD700&border_color=FFD700"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/rouinmajhi-droid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rouinmajhi-droid&repo=rouinmajhi-droid&theme=tokyonight&bg_color=000000&title_color=FFD700&border_color=FFD700"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🔥 NEVER GIVE UP
-
-<img src="https://img.shields.io/badge/⚡_CODE-000000?style=for-the-badge&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/👑_CREATE-000000?style=for-the-badge&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/🏆_INNOVATE-000000?style=for-the-badge&logoColor=FFD700"/>
-
-<br><br>
-
-### 👑 RABIN DEVELOPER 👑
-
-**DREAM BIG • WORK HARD • STAY LEGENDARY**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:402000,100:000000&height=150&section=footer"/>
+<img src="assets/footer.svg" width="100%" alt="Golden developer footer"/>
 
 </div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150">
+<defs><linearGradient id="p"><stop stop-color="#060b1b"/><stop offset="1" stop-color="#170b27"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="5" y="5" width="1090" height="140" rx="22" fill="url(#p)" stroke="#00dfff" stroke-width="3" filter="url(#gl)"/>
+<text x="550" y="48" fill="#ffd45c" font-family="Arial" font-size="30" text-anchor="middle" font-weight="bold">🔗  CONNECT WITH ME</text>
+<g font-family="Arial" font-size="19" font-weight="bold" text-anchor="middle">
+<rect x="80" y="72" width="250" height="48" rx="14" fill="#080d1b" stroke="#fff" stroke-width="2"/><text x="205" y="103" fill="#fff">GITHUB</text>
+<rect x="425" y="72" width="250" height="48" rx="14" fill="#180b20" stroke="#ff4a9b" stroke-width="2"/><text x="550" y="103" fill="#ff8bc0">INSTAGRAM</text>
+<rect x="770" y="72" width="250" height="48" rx="14" fill="#061b2c" stroke="#00cfff" stroke-width="2"/><text x="895" y="103" fill="#65eaff">TELEGRAM</text>
+</g></svg>

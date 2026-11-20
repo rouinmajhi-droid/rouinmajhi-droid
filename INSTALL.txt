@@ -1,0 +1,13 @@
+RABIN DEVELOPER - NEON GITHUB PROFILE
+
+1. Download and extract this ZIP.
+2. Open your GitHub repository: rouinmajhi-droid
+3. Upload README.md and the entire assets folder (keep the folder name exactly "assets").
+4. Commit changes to the main branch.
+5. Refresh your GitHub profile.
+
+IMPORTANT:
+- Keep your existing GitHub profile photo; this package does not replace it.
+- This designs the README area only. GitHub's native navigation bar, profile sidebar, avatar frame and page background cannot be customized by README.
+- Live stats/repository cards depend on third-party services and may take time to load.
+- Update the social URLs in README.md to your real profile links before publishing.
